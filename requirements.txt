@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+altair
+wordcloud
+matplotlib
+psycopg[binary]
+python-dotenv
+supabase
+extra-streamlit-components
+standard-imghdr
+scipy

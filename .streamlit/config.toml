@@ -1,0 +1,18 @@
+[server]
+maxUploadSize = 200
+maxMessageSize = 200
+
+[runner]
+magicEnabled = false
+fastReruns = true
+
+[client]
+showSidebarNavigation = true
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+
+[theme]
+base = "light"
